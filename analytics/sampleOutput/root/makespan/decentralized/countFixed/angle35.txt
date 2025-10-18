@@ -1,0 +1,10 @@
+decentralizedWeighted,10,35.0,1001,0,910,12618
+decentralizedWeighted,10,35.0,1002,1,937,10179
+decentralizedWeighted,10,35.0,1003,2,900,14047
+decentralizedWeighted,10,35.0,1004,3,1000,13101
+decentralizedWeighted,10,35.0,1005,4,972,12477
+decentralizedWeighted,10,35.0,1006,5,1086,13613
+decentralizedWeighted,10,35.0,1007,6,1082,10311
+decentralizedWeighted,10,35.0,1008,7,1093,14800
+decentralizedWeighted,10,35.0,1009,8,1035,12922
+decentralizedWeighted,10,35.0,10010,9,1038,12931

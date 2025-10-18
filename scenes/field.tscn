@@ -1,0 +1,67 @@
+[gd_scene load_steps=8 format=3 uid="uid://cixj4aur0a7rw"]
+
+[ext_resource type="Script" uid="uid://bxs0jtdcsnjym" path="res://scripts/logger.gd" id="2_pn4dk"]
+[ext_resource type="Texture2D" uid="uid://de2hrv06jns1o" path="res://assets/green.png" id="3_lptdg"]
+[ext_resource type="Texture2D" uid="uid://vich32apnncj" path="res://assets/red.png" id="4_7156t"]
+[ext_resource type="Script" uid="uid://j2woj4a7fmjo" path="res://scripts/Initialize.gd" id="init"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_pn4dk"]
+size = Vector2(372, 491)
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_ttalb"]
+radius = 47.5184
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_7156t"]
+size = Vector2(106, 492.125)
+
+[node name="Simulator" type="Node2D"]
+script = ExtResource("init")
+obstacle_width = 6
+obstacle_depth = 6
+droneNum = 20
+weighted_direction = true
+Maximum_Angle = 50.0
+timer_wait_time_ms = 100
+
+[node name="logger" type="Node2D" parent="."]
+script = ExtResource("2_pn4dk")
+metadata/_custom_type_script = "uid://bxs0jtdcsnjym"
+
+[node name="Area2D" type="Area2D" parent="logger"]
+collision_layer = 4
+collision_mask = 2
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="logger/Area2D"]
+position = Vector2(-3, -0.5)
+shape = SubResource("RectangleShape2D_pn4dk")
+
+[node name="Obstacles_Group" type="Node2D" parent="."]
+position = Vector2(-140, 0)
+
+[node name="Drones_Group" type="Node2D" parent="."]
+
+[node name="Start" type="Area2D" parent="."]
+position = Vector2(-240, 0)
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Start"]
+shape = SubResource("CircleShape2D_ttalb")
+
+[node name="Sprite2D" type="Sprite2D" parent="Start/CollisionShape2D"]
+modulate = Color(1, 1, 1, 0.305882)
+scale = Vector2(0.19, 0.19)
+texture = ExtResource("3_lptdg")
+metadata/_edit_lock_ = true
+
+[node name="End" type="Area2D" parent="."]
+position = Vector2(290, 0)
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="End"]
+position = Vector2(-50, 0)
+shape = SubResource("RectangleShape2D_7156t")
+debug_color = Color(0.929412, 0, 0.447059, 0.266667)
+
+[node name="Sprite2D" type="Sprite2D" parent="End/CollisionShape2D"]
+modulate = Color(1, 1, 1, 0.305882)
+scale = Vector2(0.215, 0.215)
+texture = ExtResource("4_7156t")
+metadata/_edit_lock_ = true

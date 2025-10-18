@@ -1,0 +1,11 @@
+[gd_scene load_steps=2 format=3 uid="uid://7nff0rm8uy58"]
+
+[ext_resource type="Script" uid="uid://bs6pgq7rtnmlx" path="res://scripts/SimulationRunner.gd" id="1_pxajx"]
+
+[node name="SimulationRunner" type="Node2D"]
+script = ExtResource("1_pxajx")
+metadata/_custom_type_script = "uid://bs6pgq7rtnmlx"
+
+[node name="Camera2D" type="Camera2D" parent="."]
+position = Vector2(14, 515)
+zoom = Vector2(0.5, 0.5)

@@ -1,0 +1,10 @@
+centralizedWeighted,10,36.0,1001,0,1095,12223
+centralizedWeighted,10,36.0,1002,1,1084,11720
+centralizedWeighted,10,36.0,1003,2,937,11444
+centralizedWeighted,10,36.0,1004,3,977,10456
+centralizedWeighted,10,36.0,1005,4,1058,13610
+centralizedWeighted,10,36.0,1006,5,1017,13925
+centralizedWeighted,10,36.0,1007,6,978,12297
+centralizedWeighted,10,36.0,1008,7,937,14122
+centralizedWeighted,10,36.0,1009,8,1061,13662
+centralizedWeighted,10,36.0,10010,9,1000,14419

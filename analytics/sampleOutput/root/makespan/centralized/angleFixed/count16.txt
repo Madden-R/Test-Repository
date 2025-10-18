@@ -1,0 +1,16 @@
+centralizedWeighted,16,40.0,1001,0,967,14016
+centralizedWeighted,16,40.0,1002,1,956,13563
+centralizedWeighted,16,40.0,1003,2,974,11913
+centralizedWeighted,16,40.0,1004,3,1070,10377
+centralizedWeighted,16,40.0,1005,4,901,13149
+centralizedWeighted,16,40.0,1006,5,991,13970
+centralizedWeighted,16,40.0,1007,6,923,12040
+centralizedWeighted,16,40.0,1008,7,910,14025
+centralizedWeighted,16,40.0,1009,8,968,11696
+centralizedWeighted,16,40.0,10010,9,934,10344
+centralizedWeighted,16,40.0,10011,10,1083,11708
+centralizedWeighted,16,40.0,10012,11,1092,14704
+centralizedWeighted,16,40.0,10013,12,1033,14077
+centralizedWeighted,16,40.0,10014,13,1064,10427
+centralizedWeighted,16,40.0,10015,14,912,10470
+centralizedWeighted,16,40.0,10016,15,1022,11794

@@ -1,0 +1,10 @@
+decentralizedWeighted,10,45.0,31927043512,1791,14625
+decentralizedWeighted,10,45.0,32111592899,2742,12909
+decentralizedWeighted,10,45.0,32296142286,2241,13092
+decentralizedWeighted,10,45.0,32480691673,2241,15326
+decentralizedWeighted,10,45.0,32665241060,2593,15009
+decentralizedWeighted,10,45.0,32849790447,3175,14625
+decentralizedWeighted,10,45.0,33034339834,3841,<null>
+decentralizedWeighted,10,45.0,33218889221,3724,16024
+decentralizedWeighted,10,45.0,33403438608,1926,13958
+decentralizedWeighted,10,45.0,33587987995,1559,<null>

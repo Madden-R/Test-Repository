@@ -1,0 +1,16 @@
+strategy,droneCount,maxAngle,droneID,entryTime,exitTime
+decentralizedWeighted,15,45.0,31927043512,1639,16873
+decentralizedWeighted,15,45.0,32111592899,2938,16340
+decentralizedWeighted,15,45.0,32296142286,2239,12555
+decentralizedWeighted,15,45.0,32480691673,1323,18224
+decentralizedWeighted,15,45.0,32665241060,2590,15606
+decentralizedWeighted,15,45.0,32849790447,3423,15790
+decentralizedWeighted,15,45.0,33034339834,1305,15027
+decentralizedWeighted,15,45.0,33218889221,3789,16057
+decentralizedWeighted,15,45.0,33403438608,2657,12972
+decentralizedWeighted,15,45.0,33587987995,3938,14722
+decentralizedWeighted,15,45.0,33772537382,2425,16741
+decentralizedWeighted,15,45.0,33957086769,1305,12239
+decentralizedWeighted,15,45.0,34141636156,1989,13789
+decentralizedWeighted,15,45.0,34326185543,2889,13540
+decentralizedWeighted,15,45.0,34510734930,3839,17156

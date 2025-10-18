@@ -1,0 +1,11 @@
+strategy,droneCount,droneID,entryTime,exitTime
+Decentralized,10,31927043512,3365,15982
+Decentralized,10,32111592899,2831,14298
+Decentralized,10,32296142286,1366,<null>
+Decentralized,10,32480691673,1333,12115
+Decentralized,10,32665241060,1182,<null>
+Decentralized,10,32849790447,2398,14766
+Decentralized,10,33034339834,2065,13165
+Decentralized,10,33218889221,2331,15149
+Decentralized,10,33403438608,1098,14466
+Decentralized,10,33587987995,2050,14049

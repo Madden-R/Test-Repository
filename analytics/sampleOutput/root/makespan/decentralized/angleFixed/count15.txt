@@ -1,0 +1,15 @@
+decentralizedWeighted,15,40.0,1001,0,993,14528
+decentralizedWeighted,15,40.0,1002,1,930,12516
+decentralizedWeighted,15,40.0,1003,2,1061,14001
+decentralizedWeighted,15,40.0,1004,3,939,10976
+decentralizedWeighted,15,40.0,1005,4,985,14444
+decentralizedWeighted,15,40.0,1006,5,940,10327
+decentralizedWeighted,15,40.0,1007,6,939,12047
+decentralizedWeighted,15,40.0,1008,7,998,14700
+decentralizedWeighted,15,40.0,1009,8,945,14278
+decentralizedWeighted,15,40.0,10010,9,1030,12733
+decentralizedWeighted,15,40.0,10011,10,1081,12624
+decentralizedWeighted,15,40.0,10012,11,950,10276
+decentralizedWeighted,15,40.0,10013,12,947,10142
+decentralizedWeighted,15,40.0,10014,13,1001,11106
+decentralizedWeighted,15,40.0,10015,14,963,14696

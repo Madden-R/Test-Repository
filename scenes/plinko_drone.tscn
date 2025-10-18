@@ -1,0 +1,59 @@
+[gd_scene load_steps=8 format=3 uid="uid://caql5maj28m6r"]
+
+[ext_resource type="Script" uid="uid://ctl0g4j2d4hk1" path="res://scripts/plinko_drone.gd" id="1_bxgiq"]
+[ext_resource type="Texture2D" uid="uid://crj3wiutlqsob" path="res://assets/crazyflie.png" id="1_homxk"]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_d6ama"]
+radius = 20.0
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_gv60s"]
+size = Vector2(34, 42)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_f325r"]
+size = Vector2(56, 44)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_31v1n"]
+size = Vector2(42, 4)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_i6rpy"]
+size = Vector2(42, 4)
+
+[node name="Drone" type="CharacterBody2D"]
+scale = Vector2(0.4, 0.4)
+collision_layer = 2
+script = ExtResource("1_bxgiq")
+move_speed = 50.0
+avoid_probability = 0.5
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+shape = SubResource("CircleShape2D_d6ama")
+
+[node name="detector" type="Area2D" parent="."]
+position = Vector2(22, 0)
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="detector"]
+position = Vector2(-5, 0)
+shape = SubResource("RectangleShape2D_gv60s")
+
+[node name="detector2" type="Area2D" parent="."]
+position = Vector2(26, 0)
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="detector2"]
+position = Vector2(2, 0)
+shape = SubResource("RectangleShape2D_f325r")
+
+[node name="detector3" type="Area2D" parent="."]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="detector3"]
+position = Vector2(0, -20)
+shape = SubResource("RectangleShape2D_31v1n")
+
+[node name="detector4" type="Area2D" parent="."]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="detector4"]
+position = Vector2(0, 20)
+shape = SubResource("RectangleShape2D_i6rpy")
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+rotation = 1.5708
+texture = ExtResource("1_homxk")
