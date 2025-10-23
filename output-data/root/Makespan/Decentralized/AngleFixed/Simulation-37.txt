@@ -1,0 +1,17 @@
+Decentralized,24,35.0,14,1218,14782
+Decentralized,24,35.0,2,1106,15475
+Decentralized,24,35.0,7,1218,15730
+Decentralized,24,35.0,9,1460,15730
+Decentralized,24,35.0,17,1334,15730
+Decentralized,24,35.0,6,1218,15976
+Decentralized,24,35.0,16,999,15976
+Decentralized,24,35.0,0,1460,16220
+Decentralized,24,35.0,20,1620,17914
+Decentralized,24,35.0,1,1334,18598
+Decentralized,24,35.0,21,1460,19617
+Decentralized,24,35.0,10,1620,21020
+Decentralized,24,35.0,12,1334,22962
+Decentralized,24,35.0,18,999,23540
+Decentralized,24,35.0,3,1620,29277
+Decentralized,24,35.0,5,1106,30661
+Decentralized,24,35.0,4,999,30976

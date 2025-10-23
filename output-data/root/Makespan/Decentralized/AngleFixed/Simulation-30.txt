@@ -1,0 +1,8 @@
+Decentralized,10,35.0,2,1146,14595
+Decentralized,10,35.0,9,1500,15028
+Decentralized,10,35.0,8,1258,15515
+Decentralized,10,35.0,3,1660,15770
+Decentralized,10,35.0,4,1500,15770
+Decentralized,10,35.0,7,1146,15770
+Decentralized,10,35.0,6,1660,16468
+Decentralized,10,35.0,5,1039,18638

@@ -1,0 +1,17 @@
+Decentralized,28,35.0,12,1203,14115
+Decentralized,28,35.0,2,984,14315
+Decentralized,28,35.0,11,1445,14767
+Decentralized,28,35.0,14,1605,14767
+Decentralized,28,35.0,19,1203,14973
+Decentralized,28,35.0,20,1445,14973
+Decentralized,28,35.0,0,984,15212
+Decentralized,28,35.0,1,1090,15212
+Decentralized,28,35.0,4,1319,15212
+Decentralized,28,35.0,3,1090,15460
+Decentralized,28,35.0,10,1203,15460
+Decentralized,28,35.0,25,1319,15460
+Decentralized,28,35.0,7,1605,15715
+Decentralized,28,35.0,24,1605,15715
+Decentralized,28,35.0,16,1319,15961
+Decentralized,28,35.0,23,1809,16205
+Decentralized,28,35.0,6,1090,53468

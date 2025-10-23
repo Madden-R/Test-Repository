@@ -1,0 +1,11 @@
+Decentralized,20,47.0,3,1395,14843
+Decentralized,20,47.0,15,1167,14843
+Decentralized,20,47.0,7,1521,24205
+Decentralized,20,47.0,9,1681,27630
+Decentralized,20,47.0,6,1521,29338
+Decentralized,20,47.0,10,1521,30384
+Decentralized,20,47.0,2,1395,37081
+Decentralized,20,47.0,4,1279,40219
+Decentralized,20,47.0,12,1279,53176
+Decentralized,20,47.0,11,1060,66850
+Decentralized,20,47.0,8,1167,69621

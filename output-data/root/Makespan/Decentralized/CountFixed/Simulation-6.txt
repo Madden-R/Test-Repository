@@ -1,0 +1,7 @@
+Decentralized,20,26.0,8,1300,14750
+Decentralized,20,26.0,10,1194,14977
+Decentralized,20,26.0,6,1413,15183
+Decentralized,20,26.0,16,1815,15925
+Decentralized,20,26.0,17,2019,16171
+Decentralized,20,26.0,4,1300,16415
+Decentralized,20,26.0,19,2019,17679
